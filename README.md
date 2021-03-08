@@ -7,6 +7,7 @@ You need to copy the folder snake game develp/assets to the desktop containing e
 
 **#Play**
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/68156061/110362434-460a5080-8067-11eb-8c0d-8631ec51f4e0.gif)
 
 
 
